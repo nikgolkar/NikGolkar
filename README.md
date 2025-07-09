@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitlab.com/Mr17MG"><img src="https://img.shields.io/badge/Gitlab-ffc04d?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" /></a>
-  <a href="https://www.linkedin.com/in/mohammad-golkar"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/nik-golkar"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
 </p>
 
 <p align="center"> <b>Software Engineer specializing in Qt/QML development and C++ programming, with a strong interest in DevOps and workflow automation</b></p>
